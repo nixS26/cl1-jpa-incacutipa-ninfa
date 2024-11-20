@@ -5,34 +5,111 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af9dd6aa-103a-4da8-94d0-e3938c76242e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/i202220224/crud/JPAFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/i202220224/crud/JPAFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/i202220224/crud/JPAPersist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/i202220224/crud/JPAPersist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/i202220224/crud/JPARemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/i202220224/crud/JPARemove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/i202220224/entity/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/i202220224/entity/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/i202220224/entity/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/i202220224/entity/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/i202220224/entity/CountryLanguage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/i202220224/entity/CountryLanguage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2p61dIxuEyOVqpcpJFxTUO5m08k" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.JPAFind.executor": "Run",
+    "Application.JPAPersist.executor": "Run",
+    "Application.JPARemove.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/DAW I/spring-data-jpa-lym",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/DAW I/cl1-jpa-incacutipa-ninfa/src/main/java/pe/edu/i202220224/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.JPAFind">
+    <configuration name="JPAFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.i202220224.crud.JPAFind" />
+      <module name="cl1-jpa-incacutipa-ninfa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.i202220224.crud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JPAPersist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.i202220224.crud.JPAPersist" />
+      <module name="cl1-jpa-incacutipa-ninfa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.i202220224.crud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JPARemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.i202220224.crud.JPARemove" />
+      <module name="cl1-jpa-incacutipa-ninfa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.i202220224.crud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JPAFind" />
+        <item itemvalue="Application.JPARemove" />
+        <item itemvalue="Application.JPAPersist" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,9 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732071796592</updated>
-      <workItem from="1732071797564" duration="5000" />
+      <workItem from="1732071797564" duration="22515000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
